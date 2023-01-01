@@ -2,4 +2,4 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning compiler optimizations for edge TPUs
 - 💞️ I’m looking to collaborate on anything related to AI
-- 📫 Reach me on aakashvarma18@gmail.com
+- 📫 Reach me on aakashvarma@duck.com
