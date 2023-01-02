@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aakashvarma
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning compiler optimizations for edge TPUs
+- 👀 I’m interested in Math, AI and Optimisations
+- 🌱 I’m currently working compiler optimisations for edge TPUs and Quantization techniques for deployable Deep Learning / AI algorithms
 - 💞️ I’m looking to collaborate on anything related to AI
 - 📫 Reach me on aakashvarma@duck.com
