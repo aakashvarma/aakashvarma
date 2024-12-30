@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aakashvarma
 - 👨🏻‍🚀 Visit my site at aakashvarma.com
-- 👀 I’m interested in Math, AI and Optimisations
-- 🌱 I’m currently working compiler optimisations for edge TPUs and Quantization techniques for deployable Deep Learning / AI algorithms
+- 👀 I’m interested in Math, AI, Optimisations and Art
+- 🌱 I’m currently working on AI compilers, LLM finetuning, quantization, post training etc. 
 - 💞️ I’m looking to collaborate on anything related to AI
-- 📫 Reach me on xr4936s4@duck.com
+- 📫 Reach me on X
