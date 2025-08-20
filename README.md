@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @aakashvarma
-- 👨🏻‍🚀 Visit my site at aakashvarma.com
-- 👀 I’m interested in Math, AI, Optimisations and Art
-- 🌱 I’m currently working on AI compilers, LLM finetuning, quantization, post training etc. 
-- 💞️ I’m looking to collaborate on anything related to AI
-- 📫 Reach me on X
+- Hi, I’m @aakashvarma
+- Visit my site at aakashvarma.com
+- I’m interested in Math, AI, Optimisations and Art
+- Reach me on X
